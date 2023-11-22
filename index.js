@@ -6,3 +6,11 @@
 
 // console.log(2 + "2" - 1); // 21
 
+// JS JSON
+// let text =
+//   '{ "employees" : [' +
+//   '{ "firstName":"John" , "lastName":"Doe" },' +
+//   '{ "firstName":"Anna" , "lastName":"Smith" },' +
+//   '{ "firstName":"Peter" , "lastName":"Jones" } ]}';
+// const jsonobj = JSON.parse(text);
+// console.log(jsonobj.employees[0].firstName);             // John
